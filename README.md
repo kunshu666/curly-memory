@@ -1,7 +1,7 @@
 local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/qqT4Ek4t')))()
 
-local Window = OrionLib:MakeWindow({Name = "缅北诈骗中心", HidePremium = false, SaveConfig = true,IntroText = "缅北诈骗中心", ConfigFolder = "缅北诈骗中心"})
-game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "缅北诈骗中心"; Text ="缅北诈骗中心"; Duration = 4; })
+local Window = OrionLib:MakeWindow({Name = "NASA中心", HidePremium = false, SaveConfig = true,IntroText = "NASA中心", ConfigFolder = "NASA中心"})
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "NASA中心"; Text ="NASA中心"; Duration = 4; })
 
 local about = Window:MakeTab({
     Name = "坤制作",
